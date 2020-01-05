@@ -1,0 +1,4 @@
+{:main          decor.core
+ :output-to     "resources/public/js/main.js"
+ :infer-externs true
+ :npm-deps      true}

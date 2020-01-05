@@ -1,0 +1,6 @@
+{:main          decor.showroom.core
+ :output-to     "resources/public/js/compiled/main.js"
+ :output-dir    "resources/public/js/compiled/out"
+ :infer-externs true
+ :devcards true
+ :npm-deps      false}
